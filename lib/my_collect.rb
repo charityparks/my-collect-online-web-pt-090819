@@ -1,8 +1,8 @@
-def my_collect (array)
-  counter = 0 
-  array = []
-my_collect (languages) do |lang| lang.upcase
-  counter += 1 
+def my_collect(array)
+    emptyarray = []
+    counter = 0 
+do |lang| lang.upcase
+ 
 end
 end
 
