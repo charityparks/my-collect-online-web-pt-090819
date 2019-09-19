@@ -1,7 +1,7 @@
 def my_collect(array)
     emptyarray = []
     counter = 0 
-do |lang| lang.upcase
+ while counter < array.length do
  
 end
 end
